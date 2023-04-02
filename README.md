@@ -6,7 +6,6 @@
 - 👨‍💻 All of my projects are available at [https://glittering-strudel-254dce.netlify.app/](https://glittering-strudel-254dce.netlify.app/)
 
 - 📫 How to reach me **mokhalifa238@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohamedkahlif13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedkahlif13" height="30" width="40" /></a>
@@ -21,3 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-khalifa12&show_icons=true&locale=en" alt="mohamed-khalifa12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-khalifa12&" alt="mohamed-khalifa12" /></p>
+
+
+<span class="profile-views">
+    <img src="https://komarev.com/ghpvc/?username=Mohamed-Khalifa12&color=blue" alt="Profile views"/>
+</span>

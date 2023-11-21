@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-khalifa12" alt="mohamed-khalifa12" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://glittering-strudel-254dce.netlify.app/](https://glittering-strudel-254dce.netlify.app/)
-
 - 📫 How to reach me **mokhalifa238@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

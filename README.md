@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/mohamedkahlif13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedkahlif13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamed_ahmed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed_ahmed123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-khalifa-2900b51b0/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="mohamed_ahmed123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
